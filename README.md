@@ -17,7 +17,7 @@ I'm a computer science and statistics student at Universidad Nacional de Colombi
       - **contact@juansanchezo.co**, 6BB8 B92F 457B 3717 5E8A B995 DE3C C4C3 955F 8C80
   - You can check out my  [LinkedIn](https://www.linkedin.com/in/juan-sanchezo/)
 - ⚡ Fun fact: I play the accordion 🪗.
-- 
+
 **Note**: Also, you can visit my [WebPage](http://juansanchezo.co/)
 
 ![](https://komarev.com/ghpvc/?username=TheComputerCat)
