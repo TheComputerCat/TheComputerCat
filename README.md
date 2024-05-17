@@ -18,3 +18,5 @@ I'm a computer science and statistics student at Universidad Nacional de Colombi
   - You can check out my  [LinkedIn](https://www.linkedin.com/in/juan-sanchezo/)
 - ⚡ Fun fact: I play the accordion 🪗.
 **Note**: Also, you can visit my [WebPage](http://juansanchezo.co/)
+
+![](https://komarev.com/ghpvc/?username=TheComputerCat)
