@@ -14,7 +14,7 @@ Currently captivated by: systems programming, infrastructure, and AI/ML internal
 
 📫 Reach me:
 - **jusanchez@unal.edu.co**, B73E 1BFE D341 02CF CA52 A93E E6FD 6A12 EC13 B48B
-      - **contact@jusanchez.dev**
+      - **contact@jusanchez.dev**, 8350 A22E 94F5 B4CD B384  884D C577 99E7 B855 5FB4
 - [LinkedIn](https://www.linkedin.com/in/juan-sanchezo/)
 - [jusanchez.dev](http://jusanchez.dev/)
 
